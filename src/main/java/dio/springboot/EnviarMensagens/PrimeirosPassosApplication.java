@@ -1,4 +1,4 @@
-package dio.springboot;
+package dio.springboot.EnviarMensagens;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
